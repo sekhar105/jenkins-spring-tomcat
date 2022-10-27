@@ -16,6 +16,6 @@ public class SampleController {
 	
 	@RequestMapping("/")
 	public String wel() {
-		return "welcome";
+		return "welcome jenkins tomcat";
 	}
 }
